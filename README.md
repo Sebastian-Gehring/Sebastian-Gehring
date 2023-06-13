@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sebastian-Gehring
+- 👀 I’m interested in programming, DevOps
+- 🌱 I’m currently learning Python, Terraform, Ansible, GCP,AWS,Azure
